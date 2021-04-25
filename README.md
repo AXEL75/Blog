@@ -10,7 +10,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Trucos muy locos del profesor
 * Las personalidades múltiples de Freddy
 * Creado por el increible Axel
-* Creado por el increible Axel 
 * Incluye ejemplos en windows, linux y mac 
 * Disponible para todas las edades
 
